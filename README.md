@@ -1,2 +1,4 @@
-# csci3308-lab3
-Lab 3 for CSCI 3308
+Name: Brennon Lee
+Assignment: Lab3
+
+
